@@ -1,0 +1,2 @@
+#haveFun
+一个在vscode上观看acfun文章区的插件
